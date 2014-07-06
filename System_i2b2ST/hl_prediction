@@ -1,0 +1,1527 @@
+=== Model information ===
+
+Filename:     hl.model
+Scheme:weka.classifiers.bayes.NaiveBayes 
+Relation:OBESITY-weka.filters.unsupervised.attribute.StringToWordVector-R1,2,3-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters " \r\n\t.,;:\'\"()?!"-weka.filters.unsupervised.attribute.Reorder-R2-last,first
+Attributes:   124
+[list of attributes omitted]
+
+=== Classifier model ===
+
+Naive Bayes Classifier
+
+                            Class
+Attribute              during DCT before DCT  after DCT continuing
+                           (0.01)     (0.03)        (0)     (0.95)
+===================================================================
++Chol
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+08/09/2092
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+08/26/2091
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+100
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+101
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+102
+  mean                      0.1429          0          0          0
+  std. dev.                 0.3499     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+108
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+11/25/2115
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+11/29/2067
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+110
+  mean                           0     0.0833          0          0
+  std. dev.                 0.1667     0.2764     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+111
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+1124
+  mean                      0.1429          0          0          0
+  std. dev.                 0.3499     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+114
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+115
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+117
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+119
+  mean                      0.1429     0.0417          0          0
+  std. dev.                 0.3499     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+12/15/2105
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+12/16/2070
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+121
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+123
+  mean                      0.1429          0          0          0
+  std. dev.                 0.3499     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+126
+  mean                      0.1429          0          0          0
+  std. dev.                 0.3499     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+138
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+141
+  mean                      0.1429          0          0          0
+  std. dev.                 0.3499     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+142
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+148
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+150
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+166
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+187
+  mean                      0.1429          0          0          0
+  std. dev.                 0.3499     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+192
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+196
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+209
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+263
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+266
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+272
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+283
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+294
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+A/P
+  mean                           0     0.0833          0     0.0043
+  std. dev.                 0.1667     0.2764     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+ASSESSMENT
+  mean                           0     0.0417          0      0.017
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Allergies
+  mean                      0.1429          0          0          0
+  std. dev.                 0.3499     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Assessment
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+CC
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+CC/HPI
+  mean                           0          0          0     0.0085
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+CHIEF
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Cholesterol
+  mean                           0          0          0     0.0128
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Cholesterol-LDL
+  mean                           0       0.25          0          0
+  std. dev.                 0.1667      0.433     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+DOB
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Dyslipidemia
+  mean                           0          0          0     0.0298
+  std. dev.                 0.1667     0.1667     0.1667       0.17
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Elevated
+  mean                           0          0          0      0.017
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+HISTORY
+  mean                           0          0          0     0.0426
+  std. dev.                 0.1667     0.1667     0.1667     0.2018
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+HL
+  mean                           0          0          0      0.034
+  std. dev.                 0.1667     0.1667     0.1667     0.1813
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+HLD
+  mean                           0          0          0      0.017
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+HLP
+  mean                           0          0          0     0.0213
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+HPI
+  mean                           0          0          0     0.1064
+  std. dev.                 0.1667     0.1667     0.1667     0.3083
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+HYPERCHOL
+  mean                           0          0          0     0.0128
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Health
+  mean                           0       0.25          0          0
+  std. dev.                 0.1667      0.433     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Her
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+History
+  mean                           0          0          0      0.017
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Hypercholesteremia
+  mean                           0          0          0     0.0128
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Hypercholesterolemia
+  mean                           0          0          0     0.1106
+  std. dev.                 0.1667     0.1667     0.1667     0.3137
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Hyperlipidemia
+  mean                           0          0          0     0.3163
+  std. dev.                 0.1667     0.1667     0.1667      0.465
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+IMP
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+IMPRESSION
+  mean                      0.1429     0.0417          0     0.0128
+  std. dev.                 0.3499     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Id/cc
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Impression
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Interval
+  mean                           0          0          0     0.0213
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+LDL
+  mean                           1     0.7917          0          0
+  std. dev.                 0.1667     0.4061     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Lab
+  mean                      0.1429          0          0          0
+  std. dev.                 0.3499     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Laboratory
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Labs
+  mean                      0.1429     0.0417          0          0
+  std. dev.                 0.3499     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+MAJOR
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+MEDICAL
+  mean                           0          0          0     0.0085
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+MR
+  mean                           0          0          0     0.0128
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+MRN
+  mean                           0     0.0417          0     0.0128
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Major
+  mean                           0     0.0833          0      0.034
+  std. dev.                 0.1667     0.2764     0.1667     0.1813
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Medical
+  mean                           0          0          0     0.0213
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Medications
+  mean                           0          0          0     0.0085
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Narrative
+  mean                           0          0          0     0.0085
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+PAST
+  mean                           0          0          0     0.0894
+  std. dev.                 0.1667     0.1667     0.1667     0.2853
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+PLAN
+  mean                           0     0.0417          0     0.0043
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+PMH
+  mean                           0          0          0     0.0723
+  std. dev.                 0.1667     0.1667     0.1667     0.2591
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+PMH/Old
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+PMH/PROBLEM
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+PMH/PSH
+  mean                           0          0          0      0.017
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+PMHx
+  mean                           0          0          0     0.0468
+  std. dev.                 0.1667     0.1667     0.1667     0.2112
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+PMHx/PSHx
+  mean                           0          0          0     0.0255
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+PRESENTING
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+PROBLEMS
+  mean                           0          0          0     0.0085
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Page
+  mean                           0          0          0     0.0085
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Past
+  mean                           0          0          0     0.1149
+  std. dev.                 0.1667     0.1667     0.1667     0.3189
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Plan
+  mean                      0.4286          0          0     0.0043
+  std. dev.                 0.4949     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Previous
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Problem
+  mean                           0          0          0     0.0085
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Problems
+  mean                           0          0          0     0.1362
+  std. dev.                 0.1667     0.1667     0.1667      0.343
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Problems/PMH
+  mean                           0          0          0     0.0128
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Reason
+  mean                           0          0          0     0.0085
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Record
+  mean                           0     0.2083          0     0.0596
+  std. dev.                 0.1667     0.4061     0.1667     0.2367
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Repeat
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Results
+  mean                           0     0.0833          0          0
+  std. dev.                 0.1667     0.2764     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+Summary
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+atorvastatin
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+been
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+chol
+  mean                           0     0.2083          0     0.0043
+  std. dev.                 0.1667     0.4061     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+cholesterol
+  mean                           0     0.1667          0     0.0553
+  std. dev.                 0.1667     0.3727     0.1667     0.2286
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+dyslipidemia
+  mean                           0          0          0     0.0383
+  std. dev.                 0.1667     0.1667     0.1667     0.1919
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+elevated
+  mean                      0.1429          0          0     0.0128
+  std. dev.                 0.3499     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+h/o
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+had
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+high
+  mean                           1          1          0     0.0426
+  std. dev.                 0.1667     0.1667     0.1667     0.2018
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+his
+  mean                           0     0.0833          0          0
+  std. dev.                 0.1667     0.2764     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+hyperchol
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+hypercholesterolemia
+  mean                           0          0          0     0.1064
+  std. dev.                 0.1667     0.1667     0.1667     0.3083
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+hyperlipidemia
+  mean                           0          0          0     0.1901
+  std. dev.                 0.1667     0.1667     0.1667     0.3924
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+increased
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+last
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+ldl
+  mean                      0.2857          0          0          0
+  std. dev.                 0.4518     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+lipids
+  mean                           0          0          0     0.0213
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+mention
+  mean                           0          0          0          1
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+of
+  mean                           0     0.1667          0     0.0043
+  std. dev.                 0.1667     0.3727     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+over
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+provachol
+  mean                           0          0          0     0.0043
+  std. dev.                 0.1667     0.1667     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+total
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+was
+  mean                           0     0.2083          0          0
+  std. dev.                 0.1667     0.4061     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+which
+  mean                           0     0.0417          0          0
+  std. dev.                 0.1667     0.1998     0.1667     0.1667
+  weight sum                     7         24          0        705
+  precision                      1          1          1          1
+
+
+
+=== Re-evaluation on test set ===
+
+User supplied test set
+Relation:     OBESITY-weka.filters.unsupervised.attribute.StringToWordVector-R1,2,3-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters " \r\n\t.,;:\'\"()?!"-weka.filters.unsupervised.attribute.Reorder-R2-last,first
+Instances:     unknown (yet). Reading incrementally
+Attributes:   124
+
+=== Predictions on test set ===
+
+inst#,    actual, predicted, error, probability distribution
+     1 1:during D 4:continui      +   0      0      0     *1    
+     2 1:during D 4:continui      +   0      0      0     *1    
+     3 1:during D 4:continui      +   0      0      0     *1    
+     4 1:during D 4:continui      +   0      0      0     *1    
+     5 1:during D 4:continui      +   0      0      0     *1    
+     6 1:during D 4:continui      +   0      0      0     *1    
+     7 1:during D 4:continui      +   0      0      0     *1    
+     8 1:during D 4:continui      +   0      0      0     *1    
+     9 1:during D 4:continui      +   0      0      0     *1    
+    10 1:during D 4:continui      +   0      0      0     *1    
+    11 1:during D 4:continui      +   0      0      0     *1    
+    12 1:during D 4:continui      +   0      0      0     *1    
+    13 1:during D 4:continui      +   0      0      0     *1    
+    14 1:during D 4:continui      +   0      0      0     *1    
+    15 1:during D 4:continui      +   0      0      0     *1    
+    16 1:during D 4:continui      +   0      0      0     *1    
+    17 1:during D 4:continui      +   0      0      0     *1    
+    18 1:during D 4:continui      +   0      0      0     *1    
+    19 1:during D 4:continui      +   0      0      0     *1    
+    20 1:during D 4:continui      +   0      0      0     *1    
+    21 1:during D 4:continui      +   0      0      0     *1    
+    22 1:during D 4:continui      +   0      0      0     *1    
+    23 1:during D 4:continui      +   0      0      0     *1    
+    24 1:during D 4:continui      +   0      0      0     *1    
+    25 1:during D 4:continui      +   0      0      0     *1    
+    26 1:during D 4:continui      +   0      0      0     *1    
+    27 1:during D 4:continui      +   0      0      0     *1    
+    28 1:during D 4:continui      +   0      0      0     *1    
+    29 1:during D 4:continui      +   0      0      0     *1    
+    30 1:during D 4:continui      +   0      0      0     *1    
+    31 1:during D 4:continui      +   0      0      0     *1    
+    32 1:during D 4:continui      +   0      0      0     *1    
+    33 1:during D 4:continui      +   0      0      0     *1    
+    34 1:during D 4:continui      +   0      0      0     *1    
+    35 1:during D 4:continui      +   0      0      0     *1    
+    36 1:during D 4:continui      +   0      0      0     *1    
+    37 1:during D 4:continui      +   0      0      0     *1    
+    38 1:during D 4:continui      +   0      0      0     *1    
+    39 1:during D 4:continui      +   0      0      0     *1    
+    40 1:during D 4:continui      +   0      0      0     *1    
+    41 1:during D 4:continui      +   0      0      0     *1    
+    42 1:during D 4:continui      +   0      0      0     *1    
+    43 1:during D 4:continui      +   0      0      0     *1    
+    44 1:during D 4:continui      +   0      0      0     *1    
+    45 1:during D 4:continui      +   0      0      0     *1    
+    46 1:during D 4:continui      +   0      0      0     *1    
+    47 1:during D 4:continui      +   0      0      0     *1    
+    48 1:during D 4:continui      +   0      0      0     *1    
+    49 1:during D 4:continui      +   0      0      0     *1    
+    50 1:during D 4:continui      +   0      0      0     *1    
+    51 1:during D 4:continui      +   0      0      0     *1    
+    52 1:during D 4:continui      +   0      0      0     *1    
+    53 1:during D 4:continui      +   0      0      0     *1    
+    54 1:during D 4:continui      +   0      0      0     *1    
+    55 1:during D 4:continui      +   0      0      0     *1    
+    56 1:during D 4:continui      +   0      0      0     *1    
+    57 1:during D 4:continui      +   0      0      0     *1    
+    58 1:during D 4:continui      +   0      0      0     *1    
+    59 1:during D 4:continui      +   0      0      0     *1    
+    60 1:during D 4:continui      +   0      0      0     *1    
+    61 1:during D 4:continui      +   0      0      0     *1    
+    62 1:during D 4:continui      +   0      0      0     *1    
+    63 1:during D 4:continui      +   0      0      0     *1    
+    64 1:during D 4:continui      +   0      0      0     *1    
+    65 1:during D 4:continui      +   0      0      0     *1    
+    66 1:during D 4:continui      +   0      0      0     *1    
+    67 1:during D 4:continui      +   0      0      0     *1    
+    68 1:during D 4:continui      +   0      0      0     *1    
+    69 1:during D 4:continui      +   0      0      0     *1    
+    70 1:during D 4:continui      +   0      0      0     *1    
+    71 1:during D 4:continui      +   0      0      0     *1    
+    72 1:during D 4:continui      +   0      0      0     *1    
+    73 1:during D 4:continui      +   0      0      0     *1    
+    74 1:during D 4:continui      +   0      0      0     *1    
+    75 1:during D 4:continui      +   0      0      0     *1    
+    76 1:during D 4:continui      +   0      0      0     *1    
+    77 1:during D 4:continui      +   0      0      0     *1    
+    78 1:during D 4:continui      +   0      0      0     *1    
+    79 1:during D 4:continui      +   0      0      0     *1    
+    80 1:during D 4:continui      +   0      0      0     *1    
+    81 1:during D 4:continui      +   0      0      0     *1    
+    82 1:during D 4:continui      +   0      0      0     *1    
+    83 1:during D 4:continui      +   0      0      0     *1    
+    84 1:during D 4:continui      +   0      0      0     *1    
+    85 1:during D 4:continui      +   0      0      0     *1    
+    86 1:during D 4:continui      +   0      0      0     *1    
+    87 1:during D 4:continui      +   0      0      0     *1    
+    88 1:during D 4:continui      +   0      0      0     *1    
+    89 1:during D 4:continui      +   0      0      0     *1    
+    90 1:during D 4:continui      +   0      0      0     *1    
+    91 1:during D 4:continui      +   0      0      0     *1    
+    92 1:during D 4:continui      +   0      0      0     *1    
+    93 1:during D 4:continui      +   0      0      0     *1    
+    94 1:during D 4:continui      +   0      0      0     *1    
+    95 1:during D 4:continui      +   0      0      0     *1    
+    96 1:during D 4:continui      +   0      0      0     *1    
+    97 1:during D 4:continui      +   0      0      0     *1    
+    98 1:during D 4:continui      +   0      0      0     *1    
+    99 1:during D 4:continui      +   0      0      0     *1    
+   100 1:during D 4:continui      +   0      0      0     *1    
+   101 1:during D 4:continui      +   0      0      0     *1    
+   102 1:during D 4:continui      +   0      0      0     *1    
+   103 1:during D 4:continui      +   0      0      0     *1    
+   104 1:during D 4:continui      +   0      0      0     *1    
+   105 1:during D 4:continui      +   0      0      0     *1    
+   106 1:during D 4:continui      +   0      0      0     *1    
+   107 1:during D 4:continui      +   0      0      0     *1    
+   108 1:during D 4:continui      +   0      0      0     *1    
+   109 1:during D 4:continui      +   0      0      0     *1    
+   110 1:during D 4:continui      +   0      0      0     *1    
+   111 1:during D 4:continui      +   0      0      0     *1    
+   112 1:during D 4:continui      +   0      0      0     *1    
+   113 1:during D 2:before D      +   0.001 *0.999  0      0    
+   114 1:during D 4:continui      +   0      0      0     *1    
+   115 1:during D 4:continui      +   0      0      0     *1    
+   116 1:during D 4:continui      +   0      0      0     *1    
+   117 1:during D 4:continui      +   0      0      0     *1    
+   118 1:during D 4:continui      +   0      0      0     *1    
+   119 1:during D 2:before D      +   0     *1      0      0    
+   120 1:during D 2:before D      +   0     *1      0      0    
+   121 1:during D 4:continui      +   0      0      0     *1    
+   122 1:during D 4:continui      +   0      0      0     *1    
+   123 1:during D 4:continui      +   0      0      0     *1    
+   124 1:during D 4:continui      +   0      0      0     *1    
+   125 1:during D 4:continui      +   0      0      0     *1    
+   126 1:during D 4:continui      +   0      0      0     *1    
+   127 1:during D 4:continui      +   0      0      0     *1    
+   128 1:during D 4:continui      +   0      0      0     *1    
+   129 1:during D 4:continui      +   0      0      0     *1    
+   130 1:during D 4:continui      +   0      0      0     *1    
+   131 1:during D 4:continui      +   0      0      0     *1    
+   132 1:during D 4:continui      +   0      0      0     *1    
+   133 1:during D 4:continui      +   0      0      0     *1    
+   134 1:during D 4:continui      +   0      0      0     *1    
+   135 1:during D 4:continui      +   0      0      0     *1    
+   136 1:during D 4:continui      +   0      0      0     *1    
+   137 1:during D 4:continui      +   0      0      0     *1    
+   138 1:during D 4:continui      +   0      0      0     *1    
+   139 1:during D 4:continui      +   0      0      0     *1    
+   140 1:during D 4:continui      +   0      0      0     *1    
+   141 1:during D 4:continui      +   0      0      0     *1    
+   142 1:during D 4:continui      +   0      0      0     *1    
+   143 1:during D 4:continui      +   0      0      0     *1    
+   144 1:during D 4:continui      +   0      0      0     *1    
+   145 1:during D 4:continui      +   0      0      0     *1    
+   146 1:during D 4:continui      +   0      0      0     *1    
+   147 1:during D 4:continui      +   0      0      0     *1    
+   148 1:during D 4:continui      +   0      0      0     *1    
+   149 1:during D 4:continui      +   0      0      0     *1    
+   150 1:during D 4:continui      +   0      0      0     *1    
+   151 1:during D 4:continui      +   0      0      0     *1    
+   152 1:during D 4:continui      +   0      0      0     *1    
+   153 1:during D 4:continui      +   0      0      0     *1    
+   154 1:during D 4:continui      +   0      0      0     *1    
+   155 1:during D 4:continui      +   0      0      0     *1    
+   156 1:during D 4:continui      +   0      0      0     *1    
+   157 1:during D 4:continui      +   0      0      0     *1    
+   158 1:during D 4:continui      +   0      0      0     *1    
+   159 1:during D 4:continui      +   0      0      0     *1    
+   160 1:during D 4:continui      +   0      0      0     *1    
+   161 1:during D 4:continui      +   0      0      0     *1    
+   162 1:during D 4:continui      +   0      0      0     *1    
+   163 1:during D 4:continui      +   0      0      0     *1    
+   164 1:during D 4:continui      +   0      0      0     *1    
+   165 1:during D 4:continui      +   0      0      0     *1    
+   166 1:during D 4:continui      +   0      0      0     *1    
+   167 1:during D 4:continui      +   0      0      0     *1    
+   168 1:during D 4:continui      +   0      0      0     *1    
+   169 1:during D 4:continui      +   0      0      0     *1    
+   170 1:during D 4:continui      +   0      0      0     *1    
+   171 1:during D 4:continui      +   0      0      0     *1    
+   172 1:during D 4:continui      +   0      0      0     *1    
+   173 1:during D 4:continui      +   0      0      0     *1    
+   174 1:during D 4:continui      +   0      0      0     *1    
+   175 1:during D 4:continui      +   0      0      0     *1    
+   176 1:during D 4:continui      +   0      0      0     *1    
+   177 1:during D 4:continui      +   0      0      0     *1    
+   178 1:during D 4:continui      +   0      0      0     *1    
+   179 1:during D 4:continui      +   0      0      0     *1    
+   180 1:during D 4:continui      +   0      0      0     *1    
+   181 1:during D 4:continui      +   0      0      0     *1    
+   182 1:during D 4:continui      +   0      0      0     *1    
+   183 1:during D 2:before D      +   0.036 *0.964  0      0    
+   184 1:during D 2:before D      +   0.036 *0.964  0      0    
+   185 1:during D 4:continui      +   0      0      0     *1    
+   186 1:during D 4:continui      +   0      0      0     *1    
+   187 1:during D 4:continui      +   0      0      0     *1    
+   188 1:during D 4:continui      +   0      0      0     *1    
+   189 1:during D 4:continui      +   0      0      0     *1    
+   190 1:during D 4:continui      +   0      0      0     *1    
+   191 1:during D 4:continui      +   0      0      0     *1    
+   192 1:during D 4:continui      +   0      0      0     *1    
+   193 1:during D 4:continui      +   0      0      0     *1    
+   194 1:during D 4:continui      +   0      0      0     *1    
+   195 1:during D 4:continui      +   0      0      0     *1    
+   196 1:during D 4:continui      +   0      0      0     *1    
+   197 1:during D 4:continui      +   0      0      0     *1    
+   198 1:during D 4:continui      +   0      0      0     *1    
+   199 1:during D 4:continui      +   0      0      0     *1    
+   200 1:during D 4:continui      +   0      0      0     *1    
+   201 1:during D 4:continui      +   0      0      0     *1    
+   202 1:during D 4:continui      +   0      0      0     *1    
+   203 1:during D 4:continui      +   0      0      0     *1    
+   204 1:during D 4:continui      +   0      0      0     *1    
+   205 1:during D 4:continui      +   0      0      0     *1    
+   206 1:during D 4:continui      +   0      0      0     *1    
+   207 1:during D 4:continui      +   0      0      0     *1    
+   208 1:during D 4:continui      +   0      0      0     *1    
+   209 1:during D 4:continui      +   0      0      0     *1    
+   210 1:during D 4:continui      +   0      0      0     *1    
+   211 1:during D 4:continui      +   0      0      0     *1    
+   212 1:during D 2:before D      +   0.001 *0.999  0      0    
+   213 1:during D 2:before D      +   0.001 *0.999  0      0    
+   214 1:during D 4:continui      +   0      0      0     *1    
+   215 1:during D 4:continui      +   0      0      0     *1    
+   216 1:during D 4:continui      +   0      0      0     *1    
+   217 1:during D 4:continui      +   0      0      0     *1    
+   218 1:during D 4:continui      +   0      0      0     *1    
+   219 1:during D 4:continui      +   0      0      0     *1    
+   220 1:during D 4:continui      +   0      0      0     *1    
+   221 1:during D 4:continui      +   0      0      0     *1    
+   222 1:during D 4:continui      +   0      0      0     *1    
+   223 1:during D 4:continui      +   0      0      0     *1    
+   224 1:during D 4:continui      +   0      0      0     *1    
+   225 1:during D 4:continui      +   0      0      0     *1    
+   226 1:during D 4:continui      +   0      0      0     *1    
+   227 1:during D 4:continui      +   0      0      0     *1    
+   228 1:during D 4:continui      +   0      0      0     *1    
+   229 1:during D 4:continui      +   0      0      0     *1    
+   230 1:during D 4:continui      +   0      0      0     *1    
+   231 1:during D 4:continui      +   0      0      0     *1    
+   232 1:during D 4:continui      +   0      0      0     *1    
+   233 1:during D 4:continui      +   0      0      0     *1    
+   234 1:during D 4:continui      +   0      0      0     *1    
+   235 1:during D 4:continui      +   0      0      0     *1    
+   236 1:during D 4:continui      +   0      0      0     *1    
+   237 1:during D 4:continui      +   0      0      0     *1    
+   238 1:during D 4:continui      +   0      0      0     *1    
+   239 1:during D 4:continui      +   0      0      0     *1    
+   240 1:during D 4:continui      +   0      0      0     *1    
+   241 1:during D 4:continui      +   0      0      0     *1    
+   242 1:during D 4:continui      +   0      0      0     *1    
+   243 1:during D 4:continui      +   0      0      0     *1    
+   244 1:during D 4:continui      +   0      0      0     *1    
+   245 1:during D 4:continui      +   0      0      0     *1    
+   246 1:during D 4:continui      +   0      0      0     *1    
+   247 1:during D 4:continui      +   0      0      0     *1    
+   248 1:during D 4:continui      +   0      0      0     *1    
+   249 1:during D 4:continui      +   0      0      0     *1    
+   250 1:during D 4:continui      +   0      0      0     *1    
+   251 1:during D 4:continui      +   0      0      0     *1    
+   252 1:during D 4:continui      +   0      0      0     *1    
+   253 1:during D 4:continui      +   0      0      0     *1    
+   254 1:during D 4:continui      +   0      0      0     *1    
+   255 1:during D 4:continui      +   0      0      0     *1    
+   256 1:during D 4:continui      +   0      0      0     *1    
+   257 1:during D 4:continui      +   0      0      0     *1    
+   258 1:during D 4:continui      +   0      0      0     *1    
+   259 1:during D 4:continui      +   0      0      0     *1    
+   260 1:during D 4:continui      +   0      0      0     *1    
+   261 1:during D 4:continui      +   0      0      0     *1    
+   262 1:during D 4:continui      +   0      0      0     *1    
+   263 1:during D 4:continui      +   0      0      0     *1    
+   264 1:during D 4:continui      +   0      0      0     *1    
+   265 1:during D 4:continui      +   0      0      0     *1    
+   266 1:during D 4:continui      +   0      0      0     *1    
+   267 1:during D 4:continui      +   0      0      0     *1    
+   268 1:during D 4:continui      +   0      0      0     *1    
+   269 1:during D 4:continui      +   0      0      0     *1    
+   270 1:during D 4:continui      +   0      0      0     *1    
+   271 1:during D 4:continui      +   0      0      0     *1    
+   272 1:during D 4:continui      +   0      0      0     *1    
+   273 1:during D 4:continui      +   0      0      0     *1    
+   274 1:during D 4:continui      +   0      0      0     *1    
+   275 1:during D 4:continui      +   0      0      0     *1    
+   276 1:during D 4:continui      +   0      0      0     *1    
+   277 1:during D 4:continui      +   0      0      0     *1    
+   278 1:during D 4:continui      +   0      0      0     *1    
+   279 1:during D 4:continui      +   0      0      0     *1    
+   280 1:during D 4:continui      +   0      0      0     *1    
+   281 1:during D 4:continui      +   0      0      0     *1    
+   282 1:during D 4:continui      +   0      0      0     *1    
+   283 1:during D 4:continui      +   0      0      0     *1    
+   284 1:during D 4:continui      +   0      0      0     *1    
+   285 1:during D 4:continui      +   0      0      0     *1    
+   286 1:during D 4:continui      +   0      0      0     *1    
+   287 1:during D 4:continui      +   0      0      0     *1    
+   288 1:during D 4:continui      +   0      0      0     *1    
+   289 1:during D 4:continui      +   0      0      0     *1    
+   290 1:during D 4:continui      +   0      0      0     *1    
+   291 1:during D 4:continui      +   0      0      0     *1    
+   292 1:during D 4:continui      +   0      0      0     *1    
+   293 1:during D 4:continui      +   0      0      0     *1    
+   294 1:during D 4:continui      +   0      0      0     *1    
+   295 1:during D 4:continui      +   0      0      0     *1    
+   296 1:during D 4:continui      +   0      0      0     *1    
+   297 1:during D 4:continui      +   0      0      0     *1    
+   298 1:during D 4:continui      +   0      0      0     *1    
+   299 1:during D 4:continui      +   0      0      0     *1    
+   300 1:during D 4:continui      +   0      0      0     *1    
+   301 1:during D 4:continui      +   0      0      0     *1    
+   302 1:during D 4:continui      +   0      0      0     *1    
+   303 1:during D 4:continui      +   0      0      0     *1    
+   304 1:during D 4:continui      +   0      0      0     *1    
+   305 1:during D 4:continui      +   0      0      0     *1    
+   306 1:during D 4:continui      +   0      0      0     *1    
+   307 1:during D 4:continui      +   0      0      0     *1    
+   308 1:during D 4:continui      +   0      0      0     *1    
+   309 1:during D 4:continui      +   0      0      0     *1    
+   310 1:during D 4:continui      +   0      0      0     *1    
+   311 1:during D 4:continui      +   0      0      0     *1    
+   312 1:during D 4:continui      +   0      0      0     *1    
+   313 1:during D 4:continui      +   0      0      0     *1    
+   314 1:during D 4:continui      +   0      0      0     *1    
+   315 1:during D 4:continui      +   0      0      0     *1    
+   316 1:during D 4:continui      +   0      0      0     *1    
+   317 1:during D 4:continui      +   0      0      0     *1    
+   318 1:during D 4:continui      +   0      0      0     *1    
+   319 1:during D 4:continui      +   0      0      0     *1    
+   320 1:during D 4:continui      +   0      0      0     *1    
+   321 1:during D 4:continui      +   0      0      0     *1    
+   322 1:during D 2:before D      +   0.234 *0.766  0      0    
+   323 1:during D 2:before D      +   0.234 *0.766  0      0    
+   324 1:during D 4:continui      +   0      0      0     *1    
+   325 1:during D 4:continui      +   0      0      0     *1    
+   326 1:during D 4:continui      +   0      0      0     *1    
+   327 1:during D 4:continui      +   0      0      0     *1    
+   328 1:during D 2:before D      +   0     *1      0      0    
+   329 1:during D 2:before D      +   0     *1      0      0    
+   330 1:during D 4:continui      +   0      0      0     *1    
+   331 1:during D 4:continui      +   0      0      0     *1    
+   332 1:during D 4:continui      +   0      0      0     *1    
+   333 1:during D 4:continui      +   0      0      0     *1    
+   334 1:during D 4:continui      +   0      0      0     *1    
+   335 1:during D 4:continui      +   0      0      0     *1    
+   336 1:during D 4:continui      +   0      0      0     *1    
+   337 1:during D 4:continui      +   0      0      0     *1    
+   338 1:during D 4:continui      +   0      0      0     *1    
+   339 1:during D 4:continui      +   0      0      0     *1    
+   340 1:during D 4:continui      +   0      0      0     *1    
+   341 1:during D 4:continui      +   0      0      0     *1    
+   342 1:during D 4:continui      +   0      0      0     *1    
+   343 1:during D 4:continui      +   0      0      0     *1    
+   344 1:during D 4:continui      +   0      0      0     *1    
+   345 1:during D 4:continui      +   0      0      0     *1    
+   346 1:during D 4:continui      +   0      0      0     *1    
+   347 1:during D 4:continui      +   0      0      0     *1    
+   348 1:during D 4:continui      +   0      0      0     *1    
+   349 1:during D 4:continui      +   0      0      0     *1    
+   350 1:during D 4:continui      +   0      0      0     *1    
+   351 1:during D 4:continui      +   0      0      0     *1    
+   352 1:during D 4:continui      +   0      0      0     *1    
+   353 1:during D 4:continui      +   0      0      0     *1    
+   354 1:during D 4:continui      +   0      0      0     *1    
+   355 1:during D 4:continui      +   0      0      0     *1    
+   356 1:during D 4:continui      +   0      0      0     *1    
+   357 1:during D 4:continui      +   0      0      0     *1    
+   358 1:during D 4:continui      +   0      0      0     *1    
+   359 1:during D 4:continui      +   0      0      0     *1    
+   360 1:during D 4:continui      +   0      0      0     *1    
+   361 1:during D 4:continui      +   0      0      0     *1    
+   362 1:during D 4:continui      +   0      0      0     *1    
+   363 1:during D 4:continui      +   0      0      0     *1    
+   364 1:during D 4:continui      +   0      0      0     *1    
+   365 1:during D 4:continui      +   0      0      0     *1    
+   366 1:during D 4:continui      +   0      0      0     *1    
+   367 1:during D 4:continui      +   0      0      0     *1    
+   368 1:during D 4:continui      +   0      0      0     *1    
+   369 1:during D 4:continui      +   0      0      0     *1    
+   370 1:during D 4:continui      +   0      0      0     *1    
+   371 1:during D 4:continui      +   0      0      0     *1    
+   372 1:during D 4:continui      +   0      0      0     *1    
+   373 1:during D 4:continui      +   0      0      0     *1    
+   374 1:during D 4:continui      +   0      0      0     *1    
+   375 1:during D 4:continui      +   0      0      0     *1    
+   376 1:during D 4:continui      +   0      0      0     *1    
+   377 1:during D 4:continui      +   0      0      0     *1    
+   378 1:during D 4:continui      +   0      0      0     *1    
+   379 1:during D 4:continui      +   0      0.048  0     *0.952
+   380 1:during D 4:continui      +   0      0      0     *1    
+   381 1:during D 4:continui      +   0      0.048  0     *0.952
+   382 1:during D 4:continui      +   0      0      0     *1    
+   383 1:during D 4:continui      +   0      0      0     *1    
+   384 1:during D 4:continui      +   0      0      0     *1    
+   385 1:during D 4:continui      +   0      0      0     *1    
+   386 1:during D 4:continui      +   0      0      0     *1    
+   387 1:during D 4:continui      +   0      0      0     *1    
+   388 1:during D 4:continui      +   0      0.002  0     *0.998
+   389 1:during D 4:continui      +   0      0      0     *1    
+   390 1:during D 4:continui      +   0      0      0     *1    
+   391 1:during D 4:continui      +   0      0      0     *1    
+   392 1:during D 4:continui      +   0      0      0     *1    
+   393 1:during D 4:continui      +   0      0      0     *1    
+   394 1:during D 4:continui      +   0      0      0     *1    
+   395 1:during D 4:continui      +   0      0      0     *1    
+   396 1:during D 4:continui      +   0      0      0     *1    
+   397 1:during D 4:continui      +   0      0      0     *1    
+   398 1:during D 4:continui      +   0      0      0     *1    
+   399 1:during D 4:continui      +   0      0      0     *1    
+   400 1:during D 4:continui      +   0      0      0     *1    
+   401 1:during D 2:before D      +   0.002 *0.998  0      0    
+   402 1:during D 4:continui      +   0      0      0     *1    
+   403 1:during D 4:continui      +   0      0      0     *1    
+   404 1:during D 4:continui      +   0      0      0     *1    
+   405 1:during D 4:continui      +   0      0      0     *1    
+   406 1:during D 4:continui      +   0      0      0     *1    
+   407 1:during D 4:continui      +   0      0      0     *1    
+   408 1:during D 4:continui      +   0      0      0     *1    
+   409 1:during D 4:continui      +   0      0      0     *1    
+   410 1:during D 4:continui      +   0      0      0     *1    
+   411 1:during D 4:continui      +   0      0      0     *1    
+   412 1:during D 4:continui      +   0      0      0     *1    
+   413 1:during D 4:continui      +   0      0      0     *1    
+   414 1:during D 4:continui      +   0      0      0     *1    
+   415 1:during D 4:continui      +   0      0      0     *1    
+   416 1:during D 4:continui      +   0      0      0     *1    
+   417 1:during D 4:continui      +   0      0      0     *1    
+   418 1:during D 4:continui      +   0      0      0     *1    
+   419 1:during D 4:continui      +   0      0      0     *1    
+   420 1:during D 4:continui      +   0      0      0     *1    
+   421 1:during D 4:continui      +   0      0      0     *1    
+   422 1:during D 4:continui      +   0      0      0     *1    
+   423 1:during D 4:continui      +   0      0      0     *1    
+   424 1:during D 4:continui      +   0      0      0     *1    
+   425 1:during D 4:continui      +   0      0      0     *1    
+   426 1:during D 4:continui      +   0      0      0     *1    
+   427 1:during D 4:continui      +   0      0      0     *1    
+   428 1:during D 4:continui      +   0      0      0     *1    
+   429 1:during D 4:continui      +   0      0      0     *1    
+   430 1:during D 4:continui      +   0      0      0     *1    
+   431 1:during D 4:continui      +   0      0      0     *1    
+   432 1:during D 4:continui      +   0      0      0     *1    
+   433 1:during D 4:continui      +   0      0      0     *1    
+   434 1:during D 4:continui      +   0      0      0     *1    
+   435 1:during D 4:continui      +   0      0      0     *1    
+   436 1:during D 2:before D      +   0.234 *0.766  0      0    
+   437 1:during D 2:before D      +   0.234 *0.766  0      0    
+   438 1:during D 4:continui      +   0      0      0     *1    
+   439 1:during D 4:continui      +   0      0      0     *1    
+   440 1:during D 4:continui      +   0      0      0     *1    
+   441 1:during D 4:continui      +   0      0      0     *1    
+   442 1:during D 1:during D         *0.999  0.001  0      0    
+   443 1:during D 1:during D         *0.999  0.001  0      0    
+   444 1:during D 4:continui      +   0      0      0     *1    
+   445 1:during D 4:continui      +   0      0      0     *1    
+   446 1:during D 4:continui      +   0      0      0     *1    
+   447 1:during D 4:continui      +   0      0      0     *1    
+   448 1:during D 4:continui      +   0      0      0     *1    
+   449 1:during D 4:continui      +   0      0      0     *1    
+   450 1:during D 4:continui      +   0      0      0     *1    
+   451 1:during D 4:continui      +   0      0      0     *1    
+   452 1:during D 4:continui      +   0      0      0     *1    
+   453 1:during D 4:continui      +   0      0      0     *1    
+   454 1:during D 4:continui      +   0      0      0     *1    
+   455 1:during D 4:continui      +   0      0      0     *1    
+   456 1:during D 4:continui      +   0      0      0     *1    
+   457 1:during D 4:continui      +   0      0      0     *1    
+   458 1:during D 4:continui      +   0      0      0     *1    
+   459 1:during D 4:continui      +   0      0      0     *1    
+   460 1:during D 4:continui      +   0      0      0     *1    
+   461 1:during D 4:continui      +   0      0      0     *1    
+   462 1:during D 4:continui      +   0      0      0     *1    
+   463 1:during D 4:continui      +   0      0      0     *1    
+   464 1:during D 4:continui      +   0      0      0     *1    
+   465 1:during D 4:continui      +   0      0      0     *1    
+   466 1:during D 4:continui      +   0      0      0     *1    
+   467 1:during D 4:continui      +   0      0      0     *1    
+   468 1:during D 4:continui      +   0      0      0     *1    
+   469 1:during D 4:continui      +   0      0      0     *1    
+   470 1:during D 4:continui      +   0      0      0     *1    
+   471 1:during D 4:continui      +   0      0      0     *1    
+   472 1:during D 4:continui      +   0      0      0     *1    
+   473 1:during D 4:continui      +   0      0      0     *1    
+   474 1:during D 4:continui      +   0      0      0     *1    
+   475 1:during D 4:continui      +   0      0      0     *1    
+   476 1:during D 4:continui      +   0      0      0     *1    
+   477 1:during D 4:continui      +   0      0      0     *1    
+   478 1:during D 4:continui      +   0      0      0     *1    
+   479 1:during D 4:continui      +   0      0      0     *1    
+   480 1:during D 4:continui      +   0      0      0     *1    
+   481 1:during D 4:continui      +   0      0      0     *1    
+   482 1:during D 4:continui      +   0      0      0     *1    
+   483 1:during D 4:continui      +   0      0      0     *1    
+   484 1:during D 4:continui      +   0      0      0     *1    
+   485 1:during D 4:continui      +   0      0      0     *1    
+   486 1:during D 4:continui      +   0      0      0     *1    
+   487 1:during D 2:before D      +   0.036 *0.964  0      0    
+   488 1:during D 4:continui      +   0      0      0     *1    
+   489 1:during D 4:continui      +   0      0      0     *1    
+   490 1:during D 4:continui      +   0      0      0     *1    
+   491 1:during D 4:continui      +   0      0      0     *1    
+   492 1:during D 4:continui      +   0      0      0     *1    
+   493 1:during D 4:continui      +   0      0      0     *1    
+   494 1:during D 4:continui      +   0      0      0     *1    
+   495 1:during D 4:continui      +   0      0      0     *1    
+   496 1:during D 4:continui      +   0      0      0     *1    
+   497 1:during D 4:continui      +   0      0      0     *1    
+   498 1:during D 4:continui      +   0      0      0     *1    
+   499 1:during D 4:continui      +   0      0      0     *1    
+   500 1:during D 4:continui      +   0      0      0     *1    
+   501 1:during D 4:continui      +   0      0      0     *1    
+   502 1:during D 4:continui      +   0      0      0     *1    
+   503 1:during D 4:continui      +   0      0      0     *1    
+   504 1:during D 4:continui      +   0      0      0     *1    
+   505 1:during D 4:continui      +   0      0      0     *1    
+   506 1:during D 4:continui      +   0      0      0     *1    
+   507 1:during D 4:continui      +   0      0      0     *1    
+   508 1:during D 4:continui      +   0      0      0     *1    
+   509 1:during D 4:continui      +   0      0      0     *1    
+   510 1:during D 4:continui      +   0      0      0     *1    
+   511 1:during D 4:continui      +   0      0      0     *1    
+   512 1:during D 4:continui      +   0      0      0     *1    
+   513 1:during D 4:continui      +   0      0      0     *1    
+   514 1:during D 4:continui      +   0      0      0     *1    
+   515 1:during D 4:continui      +   0      0      0     *1    
+   516 1:during D 4:continui      +   0      0      0     *1    
+   517 1:during D 4:continui      +   0      0      0     *1    
+   518 1:during D 4:continui      +   0      0      0     *1    
+   519 1:during D 4:continui      +   0      0      0     *1    
+   520 1:during D 4:continui      +   0      0      0     *1    
+   521 1:during D 4:continui      +   0      0      0     *1    
+   522 1:during D 4:continui      +   0      0      0     *1    
+   523 1:during D 4:continui      +   0      0      0     *1    
+   524 1:during D 4:continui      +   0      0      0     *1    
+   525 1:during D 4:continui      +   0      0      0     *1    
+   526 1:during D 4:continui      +   0      0      0     *1    
+   527 1:during D 4:continui      +   0      0      0     *1    
+   528 1:during D 4:continui      +   0      0      0     *1    
+   529 1:during D 4:continui      +   0      0      0     *1    
+   530 1:during D 4:continui      +   0      0      0     *1    
+   531 1:during D 4:continui      +   0      0      0     *1    
+   532 1:during D 4:continui      +   0      0      0     *1    
+   533 1:during D 4:continui      +   0      0      0     *1    
+   534 1:during D 4:continui      +   0      0      0     *1    
+   535 1:during D 4:continui      +   0      0      0     *1    
+   536 1:during D 4:continui      +   0      0      0     *1    
+   537 1:during D 4:continui      +   0      0      0     *1    
+   538 1:during D 4:continui      +   0      0      0     *1    
+   539 1:during D 4:continui      +   0      0      0     *1    
+   540 1:during D 2:before D      +   0.234 *0.766  0      0    
+   541 1:during D 2:before D      +   0.234 *0.766  0      0    
+   542 1:during D 4:continui      +   0      0      0     *1    
+   543 1:during D 4:continui      +   0      0      0     *1    
+   544 1:during D 4:continui      +   0      0      0     *1    
+   545 1:during D 4:continui      +   0      0      0     *1    
+   546 1:during D 4:continui      +   0      0      0     *1    
+   547 1:during D 4:continui      +   0      0      0     *1    
+   548 1:during D 4:continui      +   0      0      0     *1    
+   549 1:during D 4:continui      +   0      0      0     *1    
+   550 1:during D 2:before D      +   0.234 *0.766  0      0    
+   551 1:during D 2:before D      +   0.234 *0.766  0      0    
+   552 1:during D 4:continui      +   0      0      0     *1    
+   553 1:during D 2:before D      +   0.036 *0.964  0      0    
+   554 1:during D 4:continui      +   0      0      0     *1    
+   555 1:during D 4:continui      +   0      0      0     *1    
+   556 1:during D 4:continui      +   0      0      0     *1    
+   557 1:during D 4:continui      +   0      0      0     *1    
+   558 1:during D 4:continui      +   0      0      0     *1    
+   559 1:during D 2:before D      +   0.234 *0.766  0      0    
+   560 1:during D 2:before D      +   0.234 *0.766  0      0    
+   561 1:during D 4:continui      +   0      0      0     *1    
+   562 1:during D 4:continui      +   0      0      0     *1    
+   563 1:during D 4:continui      +   0      0      0     *1    
+   564 1:during D 4:continui      +   0      0      0     *1    
+   565 1:during D 4:continui      +   0      0      0     *1    
+   566 1:during D 4:continui      +   0      0      0     *1    
+   567 1:during D 4:continui      +   0      0      0     *1    
+   568 1:during D 4:continui      +   0      0      0     *1    
+   569 1:during D 2:before D      +   0     *1      0      0    
+   570 1:during D 4:continui      +   0      0      0     *1    
+   571 1:during D 4:continui      +   0      0      0     *1    
+   572 1:during D 2:before D      +   0.036 *0.964  0      0    
+   573 1:during D 2:before D      +   0.036 *0.964  0      0    
+   574 1:during D 4:continui      +   0      0      0     *1    
+   575 1:during D 2:before D      +   0     *1      0      0    
+   576 1:during D 4:continui      +   0      0      0     *1    
+   577 1:during D 4:continui      +   0      0      0     *1    
+   578 1:during D 4:continui      +   0      0      0     *1    
+   579 1:during D 2:before D      +   0.234 *0.766  0      0    
+   580 1:during D 2:before D      +   0.234 *0.766  0      0    
+   581 1:during D 2:before D      +   0.234 *0.766  0      0    
+   582 1:during D 2:before D      +   0.234 *0.766  0      0    
+   583 1:during D 4:continui      +   0      0      0     *1    
+   584 1:during D 4:continui      +   0      0      0     *1    
+   585 1:during D 4:continui      +   0      0      0     *1    
+   586 1:during D 4:continui      +   0      0      0     *1    
+   587 1:during D 4:continui      +   0      0      0     *1    
+   588 1:during D 4:continui      +   0      0      0     *1    
+   589 1:during D 4:continui      +   0      0      0     *1    
+   590 1:during D 4:continui      +   0      0      0     *1    
+   591 1:during D 4:continui      +   0      0      0     *1    
+   592 1:during D 4:continui      +   0      0      0     *1    
+   593 1:during D 4:continui      +   0      0      0     *1    
+   594 1:during D 4:continui      +   0      0      0     *1    
+   595 1:during D 4:continui      +   0      0      0     *1    
+   596 1:during D 4:continui      +   0      0      0     *1    
+   597 1:during D 4:continui      +   0      0      0     *1    
+   598 1:during D 4:continui      +   0      0      0     *1    
+   599 1:during D 4:continui      +   0      0      0     *1    
+   600 1:during D 4:continui      +   0      0      0     *1    
+   601 1:during D 4:continui      +   0      0      0     *1    
+   602 1:during D 4:continui      +   0      0      0     *1    
+   603 1:during D 4:continui      +   0      0      0     *1    
+   604 1:during D 4:continui      +   0      0      0     *1    
+   605 1:during D 4:continui      +   0      0      0     *1    
+   606 1:during D 4:continui      +   0      0      0     *1    
+   607 1:during D 4:continui      +   0      0      0     *1    
+   608 1:during D 4:continui      +   0      0      0     *1    
+   609 1:during D 4:continui      +   0      0      0     *1    
+   610 1:during D 4:continui      +   0      0      0     *1    
+   611 1:during D 4:continui      +   0      0      0     *1    
+   612 1:during D 4:continui      +   0      0      0     *1    
+   613 1:during D 4:continui      +   0      0      0     *1    
+   614 1:during D 4:continui      +   0      0      0     *1    
+   615 1:during D 4:continui      +   0      0      0     *1    
+   616 1:during D 4:continui      +   0      0      0     *1    
+   617 1:during D 4:continui      +   0      0      0     *1    
+   618 1:during D 4:continui      +   0      0      0     *1    
+   619 1:during D 4:continui      +   0      0      0     *1    
+   620 1:during D 4:continui      +   0      0      0     *1    
+   621 1:during D 4:continui      +   0      0      0     *1    
+   622 1:during D 4:continui      +   0      0      0     *1    
+   623 1:during D 4:continui      +   0      0      0     *1    
+   624 1:during D 4:continui      +   0      0      0     *1    
+   625 1:during D 4:continui      +   0      0      0     *1    
+   626 1:during D 4:continui      +   0      0      0     *1    
+   627 1:during D 4:continui      +   0      0      0     *1    
+   628 1:during D 4:continui      +   0      0      0     *1    
+   629 1:during D 4:continui      +   0      0      0     *1    
+   630 1:during D 4:continui      +   0      0      0     *1    
+   631 1:during D 4:continui      +   0      0      0     *1    
+   632 1:during D 2:before D      +   0.036 *0.964  0      0    
+   633 1:during D 2:before D      +   0.036 *0.964  0      0    
+   634 1:during D 4:continui      +   0      0      0     *1    
+   635 1:during D 4:continui      +   0      0      0     *1    
+   636 1:during D 4:continui      +   0      0      0     *1    
+   637 1:during D 4:continui      +   0      0      0     *1    
+   638 1:during D 4:continui      +   0      0      0     *1    
+   639 1:during D 4:continui      +   0      0      0     *1    
+   640 1:during D 4:continui      +   0      0      0     *1    
+   641 1:during D 4:continui      +   0      0      0     *1    
+   642 1:during D 4:continui      +   0      0      0     *1    
+   643 1:during D 4:continui      +   0      0      0     *1    
+   644 1:during D 4:continui      +   0      0      0     *1    
+   645 1:during D 4:continui      +   0      0      0     *1    
+   646 1:during D 4:continui      +   0      0      0     *1    
+   647 1:during D 4:continui      +   0      0      0     *1    
+   648 1:during D 4:continui      +   0      0      0     *1    
+   649 1:during D 4:continui      +   0      0      0     *1    
+   650 1:during D 4:continui      +   0      0      0     *1    
+   651 1:during D 4:continui      +   0      0      0     *1    
+   652 1:during D 4:continui      +   0      0      0     *1    
+   653 1:during D 4:continui      +   0      0      0     *1    
+   654 1:during D 4:continui      +   0      0      0     *1    
+   655 1:during D 4:continui      +   0      0      0     *1    
+   656 1:during D 4:continui      +   0      0      0     *1    
+   657 1:during D 2:before D      +   0.002 *0.998  0      0    
+   658 1:during D 4:continui      +   0      0      0     *1    
+   659 1:during D 4:continui      +   0      0      0     *1    
+   660 1:during D 2:before D      +   0.002 *0.998  0      0    
+   661 1:during D 4:continui      +   0      0      0     *1    
+   662 1:during D 4:continui      +   0      0      0     *1    
+   663 1:during D 4:continui      +   0      0      0     *1    
+   664 1:during D 4:continui      +   0      0      0     *1    
+   665 1:during D 4:continui      +   0      0      0     *1    
+   666 1:during D 4:continui      +   0      0      0     *1    
+   667 1:during D 4:continui      +   0      0      0     *1    
+   668 1:during D 4:continui      +   0      0      0     *1    
+   669 1:during D 4:continui      +   0      0      0     *1    
+   670 1:during D 4:continui      +   0      0      0     *1    
+   671 1:during D 4:continui      +   0      0      0     *1    
+   672 1:during D 4:continui      +   0      0      0     *1    
+   673 1:during D 4:continui      +   0      0      0     *1    
+   674 1:during D 4:continui      +   0      0      0     *1    
+   675 1:during D 4:continui      +   0      0      0     *1    
+   676 1:during D 4:continui      +   0      0      0     *1    
+   677 1:during D 4:continui      +   0      0      0     *1    
+   678 1:during D 4:continui      +   0      0      0     *1    
+   679 1:during D 1:during D         *0.839  0.161  0      0    
+   680 1:during D 1:during D         *0.839  0.161  0      0    
+   681 1:during D 4:continui      +   0      0      0     *1    
+   682 1:during D 4:continui      +   0      0      0     *1    
+   683 1:during D 4:continui      +   0      0      0     *1    
+   684 1:during D 4:continui      +   0      0      0     *1    
+   685 1:during D 4:continui      +   0      0      0     *1    
+   686 1:during D 4:continui      +   0      0      0     *1    
+   687 1:during D 4:continui      +   0      0      0     *1    
+   688 1:during D 4:continui      +   0      0      0     *1    
+   689 1:during D 4:continui      +   0      0      0     *1    
+   690 1:during D 4:continui      +   0      0      0     *1    
+   691 1:during D 4:continui      +   0      0      0     *1    
+   692 1:during D 4:continui      +   0      0      0     *1    
+   693 1:during D 4:continui      +   0      0      0     *1    
+   694 1:during D 4:continui      +   0      0      0     *1    
+   695 1:during D 4:continui      +   0      0      0     *1    
+   696 1:during D 4:continui      +   0      0      0     *1    
+   697 1:during D 4:continui      +   0      0      0     *1    
+   698 1:during D 4:continui      +   0      0      0     *1    
+   699 1:during D 4:continui      +   0      0      0     *1    
+   700 1:during D 4:continui      +   0      0      0     *1    
+   701 1:during D 4:continui      +   0      0      0     *1    
+   702 1:during D 4:continui      +   0      0      0     *1    
+   703 1:during D 4:continui      +   0      0      0     *1    
+   704 1:during D 4:continui      +   0      0      0     *1    
+   705 1:during D 4:continui      +   0      0      0     *1    
+   706 1:during D 4:continui      +   0      0      0     *1    
+   707 1:during D 4:continui      +   0      0      0     *1    
+   708 1:during D 4:continui      +   0      0      0     *1    
+   709 1:during D 4:continui      +   0      0      0     *1    
+   710 1:during D 4:continui      +   0      0      0     *1    
+   711 1:during D 4:continui      +   0      0      0     *1    
+   712 1:during D 4:continui      +   0      0      0     *1    
+   713 1:during D 4:continui      +   0      0      0     *1    
+   714 1:during D 4:continui      +   0      0      0     *1    
+   715 1:during D 4:continui      +   0      0      0     *1    
+   716 1:during D 4:continui      +   0      0      0     *1    
+   717 1:during D 2:before D      +   0.001 *0.999  0      0    
+   718 1:during D 4:continui      +   0      0      0     *1    
+   719 1:during D 2:before D      +   0.004 *0.996  0      0    
+   720 1:during D 2:before D      +   0.234 *0.766  0      0    
+   721 1:during D 4:continui      +   0      0      0     *1    
+   722 1:during D 4:continui      +   0      0      0     *1    
+   723 1:during D 4:continui      +   0      0      0     *1    
+   724 1:during D 4:continui      +   0      0      0     *1    
+   725 1:during D 4:continui      +   0      0      0     *1    
+   726 1:during D 4:continui      +   0      0      0     *1    
+   727 1:during D 4:continui      +   0      0.013  0     *0.987
+   728 1:during D 4:continui      +   0      0      0     *1    
+   729 1:during D 4:continui      +   0      0      0     *1    
+   730 1:during D 4:continui      +   0      0      0     *1    
+   731 1:during D 4:continui      +   0      0      0     *1    
+   732 1:during D 4:continui      +   0      0      0     *1    
+   733 1:during D 4:continui      +   0      0      0     *1    
+   734 1:during D 4:continui      +   0      0      0     *1    
+
+=== Summary ===
+
+Correctly Classified Instances           4                0.545  %
+Incorrectly Classified Instances       730               99.455  %
+Kappa statistic                          0     
+Mean absolute error                      0.4949
+Root mean squared error                  0.7019
+Total Number of Instances              734     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.005     0          1         0.005     0.011      ?        during DCT
+                 0         0.05       0         0         0          ?        before DCT
+                 0         0          0         0         0          ?        after DCT
+                 0         0.944      0         0         0          ?        continuing
+Weighted Avg.    0.005     0          1         0.005     0.011      0    
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+   4  37   0 693 |   a = during DCT
+   0   0   0   0 |   b = before DCT
+   0   0   0   0 |   c = after DCT
+   0   0   0   0 |   d = continuing
+

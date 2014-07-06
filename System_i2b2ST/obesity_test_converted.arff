@@ -1,0 +1,271 @@
+@relation 'OBESITY-weka.filters.unsupervised.attribute.StringToWordVector-R1,2,3-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.Reorder-R2-last,first'
+
+@attribute ## numeric
+@attribute 1 numeric
+@attribute 2 numeric
+@attribute 23 numeric
+@attribute 24 numeric
+@attribute 26 numeric
+@attribute 27 numeric
+@attribute 28 numeric
+@attribute 29 numeric
+@attribute 3 numeric
+@attribute 30 numeric
+@attribute 31 numeric
+@attribute 33 numeric
+@attribute 34 numeric
+@attribute 35 numeric
+@attribute 36 numeric
+@attribute 37 numeric
+@attribute 4 numeric
+@attribute 40 numeric
+@attribute 5 numeric
+@attribute 6 numeric
+@attribute 7 numeric
+@attribute 8 numeric
+@attribute 9 numeric
+@attribute ================ numeric
+@attribute A/P numeric
+@attribute ASSESSMENT numeric
+@attribute Allergies numeric
+@attribute Assessment numeric
+@attribute Attending numeric
+@attribute BMI numeric
+@attribute CC numeric
+@attribute CHIEF numeric
+@attribute DOB numeric
+@attribute Exam numeric
+@attribute FH numeric
+@attribute Family numeric
+@attribute HISTORY numeric
+@attribute HPI numeric
+@attribute IMPRESSION numeric
+@attribute Id/cc numeric
+@attribute Impression numeric
+@attribute Laboratory numeric
+@attribute MEDICAL numeric
+@attribute MEDICAL/SURGICAL numeric
+@attribute Major numeric
+@attribute Medical numeric
+@attribute Morbid numeric
+@attribute OBESITY numeric
+@attribute Obese numeric
+@attribute Obesity numeric
+@attribute Obesity-Hypoventilation numeric
+@attribute PAST numeric
+@attribute PE numeric
+@attribute PHYSICAL numeric
+@attribute PMH numeric
+@attribute PMH/PROBLEM numeric
+@attribute PMH/PSH numeric
+@attribute PMHx numeric
+@attribute Past numeric
+@attribute Physical numeric
+@attribute Previous numeric
+@attribute Problems numeric
+@attribute ROS numeric
+@attribute Reason numeric
+@attribute Record numeric
+@attribute SHx numeric
+@attribute Summary numeric
+@attribute Syndrome numeric
+@attribute VITALS numeric
+@attribute Vital numeric
+@attribute Vitals numeric
+@attribute exam numeric
+@attribute hypoventilation numeric
+@attribute mention numeric
+@attribute morbid numeric
+@attribute obese numeric
+@attribute obesity numeric
+@attribute syndrome numeric
+@attribute w/ numeric
+@attribute with numeric
+@attribute class {'during DCT','before DCT','after DCT',continuing}
+
+@data
+{9 1,15 1,30 1,60 1}
+{1 1,18 1,30 1,60 1}
+{5 1,20 1,30 1,60 1}
+{46 1,50 1,74 1}
+{46 1,50 1,74 1}
+{46 1,50 1,74 1}
+{34 1,74 1,76 1}
+{6 1,19 1,30 1,60 1}
+{50 1,62 1,74 1}
+{25 1,74 1,77 1}
+{50 1,62 1,74 1}
+{50 1,62 1,74 1}
+{50 1,62 1,74 1}
+{54 1,74 1,76 1}
+{64 1,74 1,77 1}
+{60 1,74 1,76 1}
+{45 1,50 1,74 1}
+{49 1,60 1,74 1}
+{60 1,74 1,76 1}
+{12 1,17 1,30 1,60 1}
+{49 1,60 1,74 1}
+{49 1,60 1,74 1}
+{12 1,21 1,30 1,60 1}
+{60 1,74 1,76 1}
+{71 1,74 1,76 1}
+{29 1,74 1,76 1}
+{49 1,60 1,74 1}
+{29 1,74 1,76 1}
+{60 1,74 1,76 1}
+{34 1,49 1,74 1}
+{65 1,74 1,77 1}
+{65 1,74 1,75 1,77 1}
+{65 1,74 1,77 1}
+{32 1,74 1,77 1}
+{53 1,74 1,76 1}
+{53 1,74 1,76 1}
+{7 1,9 1,30 1,60 1}
+{60 1,74 1,76 1}
+{7 1,19 1,30 1,70 1}
+{54 1,74 1,76 1}
+{52 1,74 1,77 1}
+{26 1,50 1,74 1}
+{13 1,22 1,30 1,54 1}
+{50 1,62 1,74 1}
+{11 1,23 1,30 1,60 1}
+{27 1,74 1,76 1}
+{35 1,74 1,76 1}
+{35 1,74 1,76 1}
+{3 1,22 1,30 1,60 1}
+{4 1,17 1,30 1,60 1}
+{1 1,5 1,30 1,60 1}
+{34 1,74 1,76 1}
+{53 1,74 1,76 1}
+{49 1,60 1,74 1}
+{2 1,10 1,30 1,60 1}
+{53 1,74 1,76 1}
+{8 1,23 1,30 1,53 1}
+{26 1,50 1,74 1}
+{72 1,74 1,76 1}
+{39 1,50 1,74 1}
+{39 1,50 1,74 1}
+{34 1,49 1,74 1}
+{60 1,74 1,76 1}
+{50 1,61 1,74 1}
+{55 1,74 1,77 1}
+{50 1,55 1,74 1}
+{60 1,74 1,76 1}
+{60 1,74 1,76 1}
+{43 1,50 1,74 1}
+{34 1,74 1,76 1}
+{50 1,58 1,74 1}
+{50 1,62 1,74 1}
+{50 1,62 1,74 1}
+{65 1,74 1,76 1}
+{50 1,62 1,74 1}
+{34 1,74 1,76 1}
+{37 1,74 1,76 1}
+{54 1,74 1,76 1}
+{41 1,74 1,77 1}
+{50 1,57 1,74 1}
+{49 1,53 1,74 1}
+{49 1,53 1,74 1}
+{49 1,54 1,74 1}
+{60 1,74 1,76 1}
+{52 1,74 1,77 1}
+{50 1,62 1,74 1}
+{67 1,74 1,77 1}
+{67 1,74 1,77 1}
+{50 1,55 1,74 1}
+{50 1,59 1,74 1}
+{50 1,62 1,74 1}
+{50 1,62 1,74 1}
+{28 1,50 1,74 1}
+{52 1,74 1,77 1}
+{54 1,74 1,76 1}
+{49 1,54 1,74 1}
+{53 1,74 1,76 1}
+{25 1,50 1,74 1}
+{1 1,14 1,30 1,53 1}
+{53 1,74 1,76 1}
+{31 1,74 1,77 1}
+{38 1,74 1,77 1}
+{53 1,74 1,76 1}
+{25 1,50 1,74 1}
+{60 1,74 1,76 1}
+{60 1,74 1,76 1}
+{50 1,59 1,74 1}
+{59 1,74 1,77 1}
+{71 1,74 1,76 1}
+{37 1,73 1,74 1,77 1,78 1,79 1}
+{69 1,74 1,76 1}
+{44 1,74 1,77 1}
+{44 1,51 1,68 1,74 1,77 1,80 1}
+{49 1,54 1,74 1}
+{54 1,74 1,77 1}
+{49 1,54 1,74 1}
+{24 1,48 1,74 1}
+{24 1,74 1,76 1}
+{38 1,74 1,77 1}
+{41 1,74 1,77 1}
+{54 1,74 1,76 1}
+{52 1,74 1,77 1}
+{49 1,54 1,74 1}
+{52 1,74 1,77 1}
+{50 1,62 1,74 1}
+{59 1,74 1,75 1,77 1}
+{59 1,74 1,77 1}
+{36 1,74 1,77 1}
+{60 1,74 1,76 1}
+{60 1,74 1,76 1}
+{60 1,74 1,76 1}
+{56 1,74 1,77 1}
+{50 1,57 1,74 1}
+{65 1,74 1,77 1}
+{60 1,74 1,76 1}
+{71 1,74 1,76 1}
+{50 1,52 1,74 1}
+{39 1,50 1,74 1}
+{54 1,74 1,76 1}
+{49 1,54 1,74 1}
+{40 1,74 1,77 1}
+{50 1,62 1,74 1}
+{53 1,74 1,76 1}
+{65 1,74 1,77 1}
+{38 1,50 1,74 1}
+{38 1,74 1,76 1}
+{38 1,74 1,76 1}
+{25 1,74 1,77 1}
+{65 1,74 1,77 1}
+{50 1,55 1,74 1}
+{63 1,74 1,76 1}
+{63 1,74 1,76 1}
+{63 1,74 1,76 1}
+{34 1,49 1,74 1}
+{49 1,66 1,74 1}
+{54 1,74 1,76 1}
+{47 1,57 1,74 1,77 1}
+{54 1,74 1,76 1}
+{54 1,74 1,76 1}
+{54 1,74 1,76 1}
+{47 1,57 1,74 1,77 1}
+{60 1,74 1,75 1,77 1}
+{28 1,74 1,77 1}
+{33 1,74 1,75 1,77 1}
+{33 1,74 1,75 1,77 1}
+{37 1,74 1,75 1,77 1}
+{47 1,52 1,74 1,77 1}
+{54 1,74 1,76 1}
+{0 1,74 1,77 1}
+{53 1,74 1,76 1}
+{65 1,74 1,75 1,77 1}
+{65 1,74 1,75 1,77 1}
+{42 1,74 1,76 1}
+{50 1,55 1,74 1}
+{34 1,74 1,76 1}
+{34 1,74 1,76 1}
+{49 1,53 1,74 1}
+{53 1,74 1,76 1}
+{60 1,74 1,76 1}
+{16 1,22 1,30 1,70 1}
+{37 1,74 1,77 1}
+{53 1,74 1,76 1}
+{53 1,74 1,76 1}
+{54 1,74 1,76 1}
+{54 1,74 1,76 1}
