@@ -3,8 +3,8 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/UIMA"/>
-	<classpathentry kind="lib" path="C:/work/NLP/ruta-2.2.0/ruta-core-2.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/krishagni/Downloads/uimafit-core-2.1.0.jar">
+	<classpathentry kind="lib" path="D:/Programs/ruta-2.2.0/ruta-core-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Programs/uimafit-2.1.0/lib/uimafit-core-2.1.0.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="http://uima.apache.org/d/uimafit-2.0.0/api/"/>
 		</attributes>

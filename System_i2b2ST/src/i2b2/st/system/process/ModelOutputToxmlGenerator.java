@@ -22,17 +22,18 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
 public class ModelOutputToxmlGenerator {
-	static String extractedAnnotationFilePath = "CtakesFilteresOut_Test_hypertension.csv";
-	static String textFileFolder = "C:\\work\\NLP\\i2b2_sharedTask\\systemOutput\\testData\\textFiles";
+	static String extractedAnnotationFilePath = "CtakesFilteresOut_Test_medication.csv";
+	static String textFileFolder = "D:\\Dropbox - Manish\\Dropbox\\TCRN DTM Projects\\Data,Text Mining, IE, IR, NLP\\ST- i2b2 -2014-  Task 2 -Heart Diseases\\ErrorAnalysis\\systemResults\\systemOutput\\testData\\textFiles";
 	static String modelInputFile = "";
-	static String resultOutputFolderPath = "C:\\work\\NLP\\i2b2_sharedTask\\systemOutput\\testData\\results\\hypertension";
+	static String resultOutputFolderPath = "D:\\Dropbox - Manish\\Dropbox\\TCRN DTM Projects\\Data,Text Mining, IE, IR, NLP\\ST- i2b2 -2014-  Task 2 -Heart Diseases\\ErrorAnalysis\\systemResults\\systemOutput\\testData\\results\\medication_complete";
 	static LinkedHashMap<String, LinkedList<String>> outputAnn = new LinkedHashMap<String, LinkedList<String>>();
+	
 	public static void main(String[] args) {
 		try {
 			LinkedList<String> predictedClassLabel = readModelOutputFile();
 			getAnnotations(predictedClassLabel);
-			writeToXml();
-			//medicationWriteToXMl();
+			//writeToXml();
+			medicationWriteToXMl();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -103,6 +104,11 @@ public class ModelOutputToxmlGenerator {
 									obesityElem.setAttribute("time", "before DCT");
 									obesityElem.setAttribute("type1", drugClass);
 									obesityElem.setAttribute("type2", "");
+									Element annotationElem = doc.createElement("MEDICATION");
+									annotationElem.setAttribute("id", "M"+i);
+									annotationElem.setAttribute("start",ann.split(",")[2] );
+									annotationElem.setAttribute("end",ann.split(",")[3] );
+									obesityElem.appendChild(annotationElem);
 									tags.appendChild(obesityElem);
 								}
 								if(j==1){
@@ -111,6 +117,11 @@ public class ModelOutputToxmlGenerator {
 									obesityElem.setAttribute("time", "after DCT");
 									obesityElem.setAttribute("type1", drugClass);
 									obesityElem.setAttribute("type2", "");
+									Element annotationElem = doc.createElement("MEDICATION");
+									annotationElem.setAttribute("id", "M"+i);
+									annotationElem.setAttribute("start",ann.split(",")[2] );
+									annotationElem.setAttribute("end",ann.split(",")[3] );
+									obesityElem.appendChild(annotationElem);
 									tags.appendChild(obesityElem);
 								}
 								if(j==2){
@@ -119,6 +130,11 @@ public class ModelOutputToxmlGenerator {
 									obesityElem.setAttribute("time", "during DCT");
 									obesityElem.setAttribute("type1", drugClass);
 									obesityElem.setAttribute("type2", "");
+									Element annotationElem = doc.createElement("MEDICATION");
+									annotationElem.setAttribute("id", "M"+i);
+									annotationElem.setAttribute("start",ann.split(",")[2] );
+									annotationElem.setAttribute("end",ann.split(",")[3] );
+									obesityElem.appendChild(annotationElem);
 									tags.appendChild(obesityElem);
 								}
 								i++;
@@ -129,6 +145,11 @@ public class ModelOutputToxmlGenerator {
 							obesityElem.setAttribute("time", time);
 							obesityElem.setAttribute("type1", drugClass);
 							obesityElem.setAttribute("type2", "");
+							Element annotationElem = doc.createElement("MEDICATION");
+							annotationElem.setAttribute("id", "M"+i);
+							annotationElem.setAttribute("start",ann.split(",")[2] );
+							annotationElem.setAttribute("end",ann.split(",")[3] );
+							obesityElem.appendChild(annotationElem);
 							tags.appendChild(obesityElem);
 
 						}
